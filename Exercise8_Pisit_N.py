@@ -17,8 +17,8 @@ if usr == "Admin" and pwd == "777":
     if num == 1:
         tot = mbk * amt
         print("---------------------")
-        print("MacBook 11 Inch : Amount",amt)
-        print("Total Price =",tot,"Baht")
+        print("MacBook 11 Inch : Amount", amt)
+        print("Total Price =", tot, "Baht")
         print("---------------------")
         print("***** Thank You *****")
     elif num == 2:
