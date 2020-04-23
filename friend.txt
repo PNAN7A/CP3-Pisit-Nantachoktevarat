@@ -1,4 +1,0 @@
-Name, Movie, Pet
-Ta, Back to The Future, Dog
-Jin, 50 First Date, Fish
-Dam, Prison Break, Cat
